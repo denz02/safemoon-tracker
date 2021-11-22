@@ -1,5 +1,5 @@
 # This script doesn't work fully it records number changes but it doesn't have the price so it is work in progress
-# Tip jar address if you appreciate this script my safemoon address 0x32D2da7308516e46D38EC638FE2144dE2250B7D3 Thank You 
+#  
 #
 #Big thanks again to Sam Brimhall
 #After installing python you also need to install module requests and pandas to do this simple type in command prompt 
